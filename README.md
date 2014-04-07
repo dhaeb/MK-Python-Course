@@ -14,7 +14,7 @@ On Mac and Linux:
 On Windows with Pyzo (assuming default installation):
  - open the command prompt
  - go to the directory where you downloaded and extracted our files (example: cd c:\your\path\to\python-course)
- - Run: c:\pyzo2013b\ipython.exe notebook
+ - Run: c:\pyzo2013c\ipython_notebook.exe
 
  Make sure not to use Internet Explorer, if that is your default browser. Instead, copy the URL that pops up into the address bar of a browser window in Google Chrome or Firefox.
 
